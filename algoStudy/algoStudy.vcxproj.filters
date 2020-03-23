@@ -57,5 +57,11 @@
     <ClCompile Include="0316_1697.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="0323_3190.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="0323_15683.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
